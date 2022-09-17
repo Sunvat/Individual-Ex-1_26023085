@@ -14,3 +14,6 @@ This is a documentation for an individual exercise in COSC 499. This repository 
 ## File Descriptions :
 1. sample.java - This java file contains the methods sumOfDigits and OddEven. 
 2. MainSample.java - This java file contains the main method for the methods and the main class.
+
+## Method Description and Details :
+1. *sumOfDigits()* : the method sumOfDigits takes an input from the user and gives the sum of the digits as an out put.
