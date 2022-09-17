@@ -10,3 +10,7 @@ This is a documentation for an individual exercise in COSC 499. This repository 
 4. If you want to contribute please contact the owner of this repository and then you can make the desired changes.
 5. commit the changes.
 6. Then push.
+
+## File Descriptions :
+1. sample.java - This java file contains the methods sumOfDigits and OddEven. 
+2. MainSample.java - This java file contains the main method for the methods and the main class.
