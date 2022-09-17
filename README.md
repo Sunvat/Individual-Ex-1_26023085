@@ -25,3 +25,7 @@ This is a documentation for an individual exercise in COSC 499. This repository 
 <img src = "https://github.com/Sunvat/Individual-Ex-1_26023085/blob/master/Screenshot%20(181).png" width = "50%" height = "50%">
  **Test Run :**
  <img src = "https://github.com/Sunvat/Individual-Ex-1_26023085/blob/master/oddeven-output.JPG" width = "50%" height = "50%">
+
+## Contributions :
+Sunvat Singh Brar
+Student ID: 26023085
