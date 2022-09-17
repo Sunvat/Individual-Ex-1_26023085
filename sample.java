@@ -4,7 +4,7 @@ public class sample {
         Scanner in = new Scanner(System.in);
         int a, s = 0, g;
         System.out.println("ENTER AN INTEGER BETWEEN 0 AND 1000");
-        a = in.nextInt();
+        a = in.nextInt();//takes an input from the user
         while (a != 0) {
             g = a % 10;
             s = s + g;
