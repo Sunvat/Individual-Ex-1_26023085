@@ -17,3 +17,6 @@ This is a documentation for an individual exercise in COSC 499. This repository 
 
 ## Method Description and Details :
 1. *sumOfDigits()* : the method sumOfDigits takes an input from the user and gives the sum of the digits as an out put.
+<img src = "https://github.com/Sunvat/Individual-Ex-1_26023085/blob/master/Screenshot%20(180).png" width = "50%" height = "50%">
+Test Run:
+<img src = "https://github.com/Sunvat/Individual-Ex-1_26023085/blob/master/Screenshot%20(180).png" width = "50%" height = "50%">
